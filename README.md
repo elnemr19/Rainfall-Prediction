@@ -33,7 +33,7 @@
        
 ## 2. Table of Contents
 
-**.** [Dataset](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#3-dataset)
+ [Dataset](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#3-dataset)
 
 [Analysis]()
 
@@ -66,9 +66,14 @@
 
 ## 5. Model Overview
 
- - I use **RandomForest** model ,as he is good for implanced data all details exist on the code .
- - First the model is overfitting ,then i used hyperparameter tuning (search for it) to know
-   what are the best hyperparameter for my model .
+ - I use **RandomForest** model ,as he is good for implanced data all details exist on the code ,but
+   he made overfitting ,so i finally **useVotingClassifier** by (random forest and logistic regression) .
+
+   -The overfitting reduced but not remove .
+
+
+![classification report](https://github.com/user-attachments/assets/9d5cd6f6-f7c0-4c55-a525-65e83f96549f)
+
 
 
 
