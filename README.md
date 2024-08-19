@@ -35,11 +35,13 @@
 
 [Dataset](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#3-dataset)
 
+[Analysis]()
+
 [Model Overview](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#4-model-overview)
 
-[Results]()
+[Results](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#5-results)
 
-[Contribution]()
+[Deployment]()
 
         
 ## 3. Dataset
@@ -49,6 +51,15 @@
 -Description : all description exist on first cell of the code .
 
 -Loading the data: "The dataset is loaded directly from Kaggle using the Kaggle API."
+
+
+## 4. Analysis
+
+-I make EDA for good understand to data using python ,all details on the code .
+-I also mske analysis using **power pi**
+![image](https://github.com/user-attachments/assets/6700ab96-f8b8-430a-adfe-f7250590f2c5)
+![image](https://github.com/user-attachments/assets/05d7cce1-d3de-45e8-b531-98a8416117e7)
+![image](https://github.com/user-attachments/assets/36a15bf5-9340-4a67-a7af-8afbcbc6a0c8)
 
 
 ## 4. Model Overview
