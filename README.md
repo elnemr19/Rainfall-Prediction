@@ -18,7 +18,17 @@
          sqrt ,log transformation , BOX-COX , power transformation (you can search for them ) 
          then i finally used RobustScaler transformation .
 
-         .
+         .Then i use encode my categorical feature using LabelEncoder .
+
+         .then i split my data into traning and testing 80% -20% 
+         .then i select the best model for my dataset i used RandomForest because my data is low implanced ,
+          you can use any ensampling model .
+
+          .first the model make overfitting ,i make hyperparameter tuning to select the best hyperparameter 
+           for my model .
+
+           . I also used nueral network model ,and the final accuracy is 88.5 % , this is the best accuracy 
+             comparing with the original data .
           
 
         
