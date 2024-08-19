@@ -67,9 +67,11 @@
 ## 5. Model Overview
 
  - I use **RandomForest** model ,as he is good for implanced data all details exist on the code ,but
-   he made overfitting ,so i finally **useVotingClassifier** by (random forest and logistic regression) .
+   he made overfitting ,so i finally use **VotingClassifier** by (random forest and logistic regression) .
 
-   -The overfitting reduced but not remove .
+   -The overfitting reduced ,but not remove .
+
+![image](https://github.com/user-attachments/assets/4a9675d8-84b9-4ab7-bfba-1ae094f9c88e)
 
 
 ![classification report](https://github.com/user-attachments/assets/9d5cd6f6-f7c0-4c55-a525-65e83f96549f)
@@ -83,8 +85,9 @@
 
 ## 6. Results
 
+**VotingClassifier :** 94 % training , 85% testing
 
-
+**NN Model :** 90 % training , 88.5 % testing
 
 ## 7. Deployment
 
