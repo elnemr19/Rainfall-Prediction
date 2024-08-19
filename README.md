@@ -33,7 +33,7 @@
        
 ## 2. Table of Contents
 
-[Dataset](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#3-dataset)
+**.** [Dataset](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#3-dataset)
 
 [Analysis]()
 
@@ -41,7 +41,7 @@
 
 [Results](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#5-results)
 
-[Deployment]()
+[Deployment](https://github.com/elnemr19/Rainfall-Prediction/blob/main/README.md#7-deployment)
 
         
 ## 3. Dataset
@@ -84,42 +84,12 @@
 ## 7. Deployment
 
 - In deployment phase i use **streamlit** to make user interface ,i aske user to give me an exil fill
-  and then i show the output.
+  and then i make some preprocessing that i made in training phase ,then show the output.
 
 - Streamlit linke : [Streamlit](https://apprainnnmodel3-fhitponzgvyaehgjavwdzv.streamlit.app/)
 
   
   ![image](https://github.com/user-attachments/assets/97d6261b-40ac-45cb-9f93-036baa1335fa)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
