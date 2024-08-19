@@ -74,13 +74,15 @@
 ![image](https://github.com/user-attachments/assets/4a9675d8-84b9-4ab7-bfba-1ae094f9c88e)
 
 
-![classification report](https://github.com/user-attachments/assets/9d5cd6f6-f7c0-4c55-a525-65e83f96549f)
-
 
 
 
  -I use **NN model** with 5 hidden layers , and i use activation function such as **relu** for input 
    and hidden layers ,and **sigmoid** for output layer.
+![image](https://github.com/user-attachments/assets/cd503b9b-0d2f-4adf-b2a2-c6afa61bcd58)
+
+![image](https://github.com/user-attachments/assets/0e7c80a4-597a-4123-ba1c-484c25e046f2)
+
    
 
 ## 6. Results
