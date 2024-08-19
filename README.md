@@ -56,13 +56,15 @@
 ## 4. Analysis
 
 -I make EDA for good understand to data using python ,all details on the code .
--I also mske analysis using **power pi**
+
+-I also mske analysis using **power pi**.
+
 ![image](https://github.com/user-attachments/assets/6700ab96-f8b8-430a-adfe-f7250590f2c5)
 ![image](https://github.com/user-attachments/assets/05d7cce1-d3de-45e8-b531-98a8416117e7)
 ![image](https://github.com/user-attachments/assets/36a15bf5-9340-4a67-a7af-8afbcbc6a0c8)
 
 
-## 4. Model Overview
+## 5. Model Overview
 
  - I use **RandomForest** model ,as he is good for implanced data all details exist on the code .
  - First the model is overfitting ,then i used hyperparameter tuning (search for it) to know
@@ -74,12 +76,20 @@
    and hidden layers ,and **sigmoid** for output layer.
    
 
-## 5. Results
+## 6. Results
 
 
 
 
+## 7. Deployment
 
+- In deployment phase i use **streamlit** to make user interface ,i aske user to give me an exil fill
+  and then i show the output.
+
+- Streamlit linke : [Streamlit](https://apprainnnmodel3-fhitponzgvyaehgjavwdzv.streamlit.app/)
+
+  
+  ![image](https://github.com/user-attachments/assets/97d6261b-40ac-45cb-9f93-036baa1335fa)
 
 
 
