@@ -42,11 +42,15 @@
 [Contribution]()
 
         
+## 3. Dataset
+
+-Source : Kaggle - [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+
+-Description : all description exist on first cell of the code .
+
+-Loading the data: "The dataset is loaded directly from Kaggle using the Kaggle API."
 
 
-
-
-
-
+## 4. Model Overview
 
         
